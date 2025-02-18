@@ -1,5 +1,7 @@
-# Hi there 👋, welcome to my profile!
-My name is Sami (he/him) and I am a 2nd year CS student **@UBC**!
-- 🌱 I'm very interested in Machine Learning, currently learning the basics :)
-- ⚡️ My experience includes WebDev (HTML/CSS/JavaScript), Python (basics), and R (for data analysis/ machine learning)
-- 📫 You can reach me at mailto:saminourji23@gmail.com or via LinkedIn: https://www.linkedin.com/in/saminourji 
+# Hey, I’m Sami 👋
+
+I’m a **CS junior @ Brown University**, interested in **AI safety and Natural Language Processing**. I am currently doing research in both of these fields at Brown!
+- **Experience**: Deep learning (PyTorch, Transformers), computer vision, and web development (React, TypeScript, Node.js).
+- **Interests**: Equitable AI, Mechanistic Interpretability, XAI.
+- **Currently**: Looking for Summer 2025 internships in AI/ML, ideally at a startup.
+- **Contact**: [LinkedIn](https://www.linkedin.com/in/saminourji/) | saminourji23@gmail.com
