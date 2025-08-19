@@ -7,4 +7,4 @@ I’m a rising CS senior at Brown University driven by a simple philosophy: **us
 - **Experience**: Software development, deep learning (PyTorch, TensorFlow), LLMs (Agentic AI, Prompt Engineering, LangChain)
 - **Currently**: Researching interpretability and designing AI‑driven engineering systems in industry
 
-You can reach me on [LinkedIn](https://www.linkedin.com/in/saminourji/), or directly at saminourji23@gmail.com
+Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/saminourji/), or directly at saminourji23@gmail.com! Always happy to connect :)
